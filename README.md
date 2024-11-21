@@ -1,7 +1,7 @@
 # S3 to S3 Data Transformation Pipeline
 
 ## Project Overview
-![Project Architecture](./sTRUCTURE.JPG)
+![Project Architecture](./sTRUCTURE.PNG)
 This project is an automated data processing pipeline that leverages AWS services to handle CSV data, perform transformations, and monitor processes efficiently. The architecture is designed to be serverless, scalable, and event-driven, ensuring minimal operational overhead and high reliability.
 
 ## Architecture Components
